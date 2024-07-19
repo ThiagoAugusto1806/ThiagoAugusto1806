@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Thiago Augusto</h1>
 <h3 align="center">Desenvolvedor Frontend</h3>
-<p align="center">Atualmente me aprofundando nos conhecimentos de Frontend e trabalhando em projetos que me tragam experiencias de mercado</p>
+<p align="center">Atualmente formado em ciencia da computação e aprofundando meus conhecimentos de Frontend e trabalhando em projetos que me tragam experiencias de mercado</p>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thiago augusto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago augusto" height="30" width="40" /></a>
