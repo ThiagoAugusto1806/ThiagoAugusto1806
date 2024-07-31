@@ -3,7 +3,7 @@
 <p align="center">Atualmente formado em ciencia da computação e aprofundando meus conhecimentos de Frontend e trabalhando em projetos que me tragam experiencias de mercado</p>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/thiago-augusto-7354861b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago augusto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thiago-augusto-7354861b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago augusto" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dev_thiagoceron?igsh=MXFweWxyaDU2ZnZiMA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_thiagoaugusto" height="30" width="40" /></a>
 </p>
 
